@@ -12,3 +12,10 @@ These are a few of the most basic dependencies, there's tons more but I'm not go
 - rofi
 - ranger
 - nvim
+
+more info
+- https://old.reddit.com/r/unixporn/comments/souv1t/bspwm_i_was_told_you_guys_would_like_my_startup/hwb9v1q/
+- neofetch
+- tstock
+- cbonsai
+- ncmpcpp
